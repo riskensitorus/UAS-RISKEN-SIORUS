@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "klinik-digital",
+    "slug": "klinik-digital",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/klinik-digital.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/klinik-digital.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/klinik-digital.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.risken.klinikdigital"
+    },
+    "web": {
+      "favicon": "./assets/klinik-digital.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7a1c4dc4-e6d9-4bf9-ad04-1ccd884939b7"
+      }
+    },
+    "owner": "risken"
+  }
+}
